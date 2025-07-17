@@ -3,4 +3,5 @@ RENCANA KONTEN
 - analisa statistik
 * C++
 - interview
+- materi linux
 
