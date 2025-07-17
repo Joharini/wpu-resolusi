@@ -1,0 +1,3 @@
+RENCANA KONTEN
+- python
+- analisa statistik
