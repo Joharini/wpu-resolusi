@@ -2,4 +2,5 @@ RENCANA KONTEN
 - python
 - analisa statistik
 * C++
+- interview
 
